@@ -2,6 +2,8 @@
 ## 📍 Overview
 This project analyzes public transport activity in Warsaw, focusing on passenger flow, stop utilization, and route density. The goal is to visualize transit patterns, helping to identify the busiest stops and understand transport efficiency across the city.
 
+The Dashboard Tableau available [here](https://public.tableau.com/app/profile/alexandra.meshi/viz/WarszawPublicTransport/DashbordMapHours)
+
 ## 📊 Project Purpose
 We developed this dashboard to:
 ✔️ Estimate passenger flow across public transport stops.
@@ -36,8 +38,8 @@ The passenger flow estimation is approximate and is used primarily for comparati
 Circle size reflects passenger volume.
 Circle color indicates the number of unique routes passing through the stop.
 ## 📢 Attribution Notice (Required for License Compliance)
-When using this data, you must include the following attribution:
-📜 This visualization is based on GTFS data provided by ZTM Warszawa. The data is subject to ZTM Warszawa Data Usage Terms.
+* When using this data, you must include the following attribution:
+* 📜 This visualization is based on GTFS data provided by ZTM Warszawa. The data is subject to ZTM Warszawa Data Usage Terms.
 
 ## 📬 Contributions & Feedback
 Feel free to contribute, suggest improvements, or provide feedback! 🚀
