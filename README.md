@@ -3,6 +3,7 @@
 This project analyzes public transport activity in Warsaw, focusing on passenger flow, stop utilization, and route density. The goal is to visualize transit patterns, helping to identify the busiest stops and understand transport efficiency across the city.
 
 The Dashboard Tableau available [here](https://public.tableau.com/app/profile/alexandra.meshi/viz/WarszawPublicTransport/DashbordMapHours)
+The כull project presentation available [here](https://www.canva.com/design/DAGiV_N1I3k/I4cDxoalGCGOhZ8T7pz8iQ/edit?utm_content=DAGiV_N1I3k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 📊 Project Purpose
 We developed this dashboard to:
